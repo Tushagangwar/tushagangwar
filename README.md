@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/tusha-gangwar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusha-gangwar-a501b623)
+[![Linkedin Badge](https://img.shields.io/badge/tusha-gangwar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tusha-gangwar-a501b6238/)
 [![Instagram Badge](https://img.shields.io/badge/@tusha_gangwar-30302f?style=flat&logo=instagram&logoColor=pink)](https://instagram.com/tusha_gangwar)
 [![Gmail Badge](https://img.shields.io/badge/tushagangwar@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:tushagangwar@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushagangwar" alt="tushagangwar" /> </p>
