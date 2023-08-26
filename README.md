@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on an Open Source project
-- 🤔 I’m looking for help with backend development
+
 
 
 
