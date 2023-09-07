@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushagangwar&label=Profile%20views&color=0e75b6&style=flat" alt="tushagangwar" /> </p>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **tushagangwar@gmail.com**
 
