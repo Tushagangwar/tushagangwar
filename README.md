@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushagangwar&" alt="tushagangwar" /></p>
 
-
+[![An image of @tushagangwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tushagangwar)](https://holopin.io/@tushagangwar)
 
